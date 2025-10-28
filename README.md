@@ -1,17 +1,17 @@
-<h4>Hi there 👋, 
-  
-  I'm Udit Sharma</h4>
-
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=480&lines=Machine+Learning+Enthusiast+💡;Data+Science+Explorer+📊;Python+Lover+🐍;Always+Building+Something+Cool+🔥" />
 </p>
 
-### 🧠 About Me 
+<h4>
+Hi there 👋, 
+  
+I'm Udit Sharma
+</h4>
+Not a jack of all trades. Just mastering one — AI. 💥 From data to decisions, that’s where I live.
+Every day, one model better. ⚡ 
 
-- 💻 I turn data into insights and algorithms into action.  
-- ⚙️ Passionate about ML, AI, and real-world data applications.  
-- 🌱 Learning, coding, and sharing — one project at a time.  
-- 🎯 Goal: Become a top-notch ML Engineer 🚀
+
+
 
 ### 🧰 Things I Use Daily  
 
